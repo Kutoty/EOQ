@@ -1,2 +1,2 @@
 # EOQ
-an engine to calculates EOQ
+an engine to calculate EOQ
